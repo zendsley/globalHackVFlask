@@ -1,0 +1,68 @@
+body { 
+  background-image: url("https://img.washingtonpost.com/wp-apps/imrs.php?src=https://img.washingtonpost.com/blogs/the-fix/files/2014/10/Screen-Shot-2014-10-20-at-8.03.10-AM.png&w=1484"); 
+  background-size: cover;
+  background-attachment: fixed;
+  
+  font-family: Times New Roman;
+  
+}
+.row { margin: 8px;
+background-color: white;
+opacity:.9;
+}
+.col-sm-4{
+margin: 8px;
+background-color: white;
+opacity:.9;
+}
+.col-sm-7{
+margin: 8px;
+background-color: white;
+opacity:.9;
+}
+.menu:hover{
+ background-image: url("http://www.clipartbest.com/cliparts/zxi/g5K/zxig5K4cA.png"); 
+ background-size: 100% 100%;
+ background-repeat; no-repeat;
+}
+.container
+{
+opacity:.9;
+}
+section {
+background-color: white;
+opacity:.9;
+}
+footer > ul li
+{
+list-style: none;
+position: relative;
+  display: block;
+}
+
+#formid {background-color: yellow;
+padding: 40px;
+display:inline-block;
+text-align:center;
+
+}
+label{
+display:inline-block;
+width:200px;
+margin-right:30px;
+text-align:right;
+}
+
+
+fieldset{
+border:none;
+width:500px;
+margin:0px auto;
+
+}
+#pad {
+padding: 200px;
+margin: 40px;
+}
+input {margin: 4px;}
+
